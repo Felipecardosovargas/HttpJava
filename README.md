@@ -19,7 +19,3 @@ Este é um aplicativo Java simples que permite aos usuários enviar solicitaçõ
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests.
-
-## Licença
-
-Este projeto é licenciado sob a MIT License. Consulte o arquivo LICENSE para obter mais detalhes.
