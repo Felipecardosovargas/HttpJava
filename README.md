@@ -1,26 +1,21 @@
-### Documentação do Projeto: Sistema de Requisições HTTP em Java
+# HTTP Request GUI
 
-#### Descrição:
-Este projeto consiste em um aplicativo Java que permite aos usuários enviar solicitações HTTP personalizadas através de uma interface gráfica simples. Ele oferece funcionalidades para enviar requisições GET, POST, PUT, DELETE, adicionar cabeçalhos personalizados e enviar dados do formulário.
+Este é um aplicativo Java simples que permite aos usuários enviar solicitações HTTP personalizadas através de uma interface gráfica.
 
-#### Funcionalidades Principais:
-1. **Envio de Requisições HTTP:** Os usuários podem preencher a URL do servidor e escolher o método HTTP desejado para enviar a requisição.
-  
-2. **Métodos Suportados:** O aplicativo suporta os métodos HTTP GET, POST, PUT e DELETE, permitindo uma ampla gama de interações com servidores web.
+## Instruções de Uso
 
-3. **Cabeçalhos Personalizados:** Os usuários podem adicionar cabeçalhos personalizados às requisições, conforme necessário, para especificar informações adicionais.
+1. Preencha a URL do servidor.
+2. Escolha o método HTTP desejado (GET, POST, PUT, DELETE).
+3. Adicione cabeçalhos personalizados, se necessário.
+4. Insira o corpo da solicitação, se aplicável.
+5. Clique no botão "Enviar Solicitação" para enviar a solicitação HTTP.
+6. A resposta do servidor será exibida na área de resposta.
 
-4. **Envio de Dados do Formulário:** Além de enviar requisições comuns, os usuários podem incluir dados de formulário nas requisições POST, permitindo interações avançadas com APIs RESTful.
+## Requisitos
 
-#### Requisitos:
-- JDK 11 ou superior instalado no ambiente de execução.
-- JavaFX para a interface gráfica.
+- JDK 11 ou superior
+- JavaFX
 
-#### Estrutura do Projeto:
-- **src/main/java/:** Contém o código-fonte Java do projeto, incluindo as classes responsáveis pela lógica de envio das requisições e pela interface gráfica.
-  
-- **src/test/:** Contém os testes unitários do projeto, garantindo a robustez e confiabilidade do código.
+## Contribuição
 
-#### Como Contribuir:
-Contribuições para este projeto são bem-vindas! Sinta-se à vontade para abrir problemas (issues) relatando bugs, sugerindo melhorias ou adicionando novos recursos. Pull requests são igualmente apreciados e serão revisados para inclusão no projeto.
-
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests.
