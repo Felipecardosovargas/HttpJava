@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <!-- Componente principal do módulo -->
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <!-- Excluir pasta de saída do compilador -->
+    <exclude-output />
+    
+    <!-- Conteúdo do módulo -->
+    <content url="file://$MODULE_DIR$">
+      <!-- Pasta de origem do código-fonte (não é de teste) -->
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    
+    <!-- Entrada para o JDK herdado -->
+    <orderEntry type="inheritedJdk" />
+    
+    <!-- Entrada para pasta de origem -->
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
